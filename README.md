@@ -18,6 +18,8 @@ O projeto foi desenvolvido utilizando **Python** e **Jupyter Notebooks**. Ele an
 - Nbformat
 - Ipykernel
 - Plotly
+- Seaborn
+- Matplotlib
 - Jupyter Notebook
 
 ## Como usar
@@ -43,7 +45,7 @@ O projeto foi desenvolvido utilizando **Python** e **Jupyter Notebooks**. Ele an
 
 3. Abra o arquivo `insights.ipynb` no navegador e execute as células para obter os insights.
 
-4. **Observação**: Como o arquivo contém gráficos interativos e dados grandes, ele pode ficar pesado para execução. Certifique-se de ter o ambiente adequado para rodá-lo sem dificuldades.
+4. **Observação**: Extraia o arquivo tabelas.zip para ter acesso aos dados que utilizei nesse projeto.
 
 ## Contato
 

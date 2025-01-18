@@ -47,7 +47,7 @@ O projeto analisa dois arquivos CSV que contêm dados sobre clientes e cancelame
 ## 📬 **Contato**
 
 Para dúvidas ou sugestões, entre em contato via:
-- **GitHub**: [Seu Perfil](https://github.com/seu-perfil)
+- **GitHub**: [KDMint](https://github.com/KDMint)
 - **E-mail**: **khadijalima2005@gmail.com**
 
 ---

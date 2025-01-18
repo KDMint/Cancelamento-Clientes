@@ -53,6 +53,11 @@ Se tiver dúvidas, entre em contato comigo via GitHub ou por e-mail: **khadijali
 
 ---
 
+## 📜 Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+---
+
 **📌 Nota**: A análise de dados e os insights gerados podem ser ajustados conforme novos dados sejam adicionados aos arquivos CSV.
 
 💡 Caso prefira, você também pode usar o **Jupyter Notebook** diretamente pelo navegador!
